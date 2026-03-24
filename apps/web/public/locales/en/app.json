@@ -619,5 +619,7 @@
   "unmuteNotifications": "Unmute notifications",
   "muteNotifications": "Mute notifications",
   "creatingPoll": "Creating poll...",
-  "createPollPollCreated": "Poll created"
+  "createPollPollCreated": "Poll created",
+  "welcomeMessage": "Welcome to Rallly! Create polls and schedule meetings with ease.",
+  "proFeatureDescription": "Unlock advanced features like custom branding, analytics, and priority support."
 }
