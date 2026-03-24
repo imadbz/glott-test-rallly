@@ -268,5 +268,8 @@
   "cancelAnytime": "<a>請求ページ</a>からいつでもキャンセルできます。",
   "verifyEmail": "メールアドレスを認証する",
   "userNotFound": "そのメールアドレスのユーザーは存在しません",
-  "registerDescription": "効率的な日程調整で時間を節約"
+  "registerDescription": "効率的な日程調整で時間を節約",
+  "teamSpaces": "チームスペース",
+  "createTeamSpace": "新しいチームスペースを作成",
+  "teamSpaceDesc": "チームや部署ごとに投票を整理できます。"
 }
