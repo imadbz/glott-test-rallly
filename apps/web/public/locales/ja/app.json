@@ -268,5 +268,9 @@
   "cancelAnytime": "<a>請求ページ</a>からいつでもキャンセルできます。",
   "verifyEmail": "メールアドレスを認証する",
   "userNotFound": "そのメールアドレスのユーザーは存在しません",
-  "registerDescription": "効率的な日程調整で時間を節約"
+  "registerDescription": "効率的な日程調整で時間を節約",
+  "createPollPollCreated": "アンケートを作成しました",
+  "glottWelcome": "Ralllyへようこそ！アンケートを作成し、会議のスケジュールを手間なく設定できます。",
+  "glottUpgrade": "Proにアップグレード",
+  "glottProDesc": "カスタムブランディングや分析機能などの高度な機能を利用できます。"
 }
