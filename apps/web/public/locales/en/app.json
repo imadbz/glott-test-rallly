@@ -619,5 +619,8 @@
   "unmuteNotifications": "Unmute notifications",
   "muteNotifications": "Mute notifications",
   "creatingPoll": "Creating poll...",
-  "createPollPollCreated": "Poll created"
+  "createPollPollCreated": "Poll created",
+  "glottWelcome": "Welcome to Rallly! Create polls and schedule meetings effortlessly.",
+  "glottUpgrade": "Upgrade to Pro",
+  "glottProDesc": "Get advanced features like custom branding and analytics."
 }
