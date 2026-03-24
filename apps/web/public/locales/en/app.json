@@ -619,5 +619,8 @@
   "unmuteNotifications": "Unmute notifications",
   "muteNotifications": "Mute notifications",
   "creatingPoll": "Creating poll...",
-  "createPollPollCreated": "Poll created"
+  "createPollPollCreated": "Poll created",
+  "teamSpaces": "Team Spaces",
+  "createTeamSpace": "Create a new team space",
+  "teamSpaceDesc": "Organize your polls by team or department."
 }
