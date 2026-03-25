@@ -619,5 +619,8 @@
   "unmuteNotifications": "Unmute notifications",
   "muteNotifications": "Mute notifications",
   "creatingPoll": "Creating poll...",
-  "createPollPollCreated": "Poll created"
+  "createPollPollCreated": "Poll created",
+  "noHarmTest1": "This is a no-harm test",
+  "noHarmTest2": "Surgical insertion only",
+  "noHarmTest3": "Zero formatting changes"
 }
