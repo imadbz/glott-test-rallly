@@ -268,5 +268,8 @@
   "cancelAnytime": "<a>請求ページ</a>からいつでもキャンセルできます。",
   "verifyEmail": "メールアドレスを認証する",
   "userNotFound": "そのメールアドレスのユーザーは存在しません",
-  "registerDescription": "効率的な日程調整で時間を節約"
+  "registerDescription": "効率的な日程調整で時間を節約",
+  "noHarmTest1": "これは無害なテストです",
+  "noHarmTest2": "精密な挿入のみ",
+  "noHarmTest3": "一切の書式変更なし"
 }
