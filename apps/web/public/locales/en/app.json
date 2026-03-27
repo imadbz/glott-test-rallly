@@ -619,5 +619,8 @@
   "unmuteNotifications": "Unmute notifications",
   "muteNotifications": "Mute notifications",
   "creatingPoll": "Creating poll...",
-  "createPollPollCreated": "Poll created"
+  "createPollPollCreated": "Poll created",
+  "fileAwareTest": "File-aware translation engine",
+  "newLangTest": "Adding support for Korean language",
+  "styleMatchTest": "The LLM should match the file style exactly"
 }
