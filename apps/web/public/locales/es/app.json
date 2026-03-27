@@ -516,5 +516,8 @@
   "emailChangeInvalidUserId": "Por favor, inicia sesión con la misma dirección de correo electrónico que utilizaste para solicitar el cambio.",
   "ssoAuthenticationOnly": "La autenticación se gestiona a través de la autenticación única (SSO). La gestión de contraseñas no está disponible.",
   "oidcAutoSignInDescription": "Se te está redirigiendo a la página de inicio de sesión...",
-  "loginVerifyCheckEmail": "Si existe una cuenta con este correo electrónico, recibirás un código de verificación en <b>{email}</b>"
+  "loginVerifyCheckEmail": "Si existe una cuenta con este correo electrónico, recibirás un código de verificación en <b>{email}</b>",
+"fileAwareTest": "Motor de traducción con conocimiento de archivos",
+  "newLangTest": "Añadiendo soporte para el idioma coreano",
+  "styleMatchTest": "El LLM debe coincidir exactamente con el estilo del archivo"
 }

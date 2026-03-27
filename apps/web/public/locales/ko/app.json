@@ -268,5 +268,8 @@
   "cancelAnytime": "언제든지 <a>결제 페이지</a>에서 취소할 수 있습니다.",
   "back": "뒤로가기",
   "verifyEmail": "이메일을 확인하세요",
-  "userNotFound": "해당 이메일을 가진 유저가 존재하지 않습니다"
+  "userNotFound": "해당 이메일을 가진 유저가 존재하지 않습니다",
+"fileAwareTest": "파일 인식 번역 엔진",
+  "newLangTest": "한국어 지원 추가",
+  "styleMatchTest": "LLM은 파일 스타일과 정확히 일치해야 합니다"
 }
